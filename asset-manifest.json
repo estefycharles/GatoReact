@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GatoReact/static/css/main.3663f481.css",
+    "main.js": "/GatoReact/static/js/main.21b03a2e.js",
+    "index.html": "/GatoReact/index.html",
+    "main.3663f481.css.map": "/GatoReact/static/css/main.3663f481.css.map",
+    "main.21b03a2e.js.map": "/GatoReact/static/js/main.21b03a2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3663f481.css",
+    "static/js/main.21b03a2e.js"
+  ]
+}
